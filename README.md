@@ -13,3 +13,8 @@ echo 'from .settings_base import *' > hub/settings.py
 ./manage.py createsuperuser
 ./manage.py runserver
 ```
+
+
+## Scrapers
+* https://github.com/palcu/acte-normative-scrapers
+* https://github.com/zmack/scrappy
